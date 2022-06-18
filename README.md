@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatetuke)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatetuke)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=tatetuke)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 <!--
